@@ -1,44 +1,42 @@
-
+# Greetings samples
 greetings = [
-	"Привет, дорогой друг. Отвечаю на твой вопрос...",
-	"Кто вопрошает, тот получит ответ:",
-	"Здравствуй, смертный. Сегодня для тебя такой ответ:"
+		"Wsuup dude! The ans is..",
+		"Who asks, recieves an answer:",
+		"Hey mortal. There is an answer for you today:"
 ]
-
-
+# Random answers
 answers = [
-	# Положительные
-	"Бесспорно",
-	"Предрешено",
-	"Никаких сомнений",
-	"Определённо да",
-	"Можешь быть уверен в этом",
-	"Нерешительно положительные",
+		# Positive
+		"Certainly",
+		"Predetermined",
+		"No doubt",
+		"Definitely yes",
+		"You might be sure of it",
 
-	# Нерешительно положительные
-	"Мне кажется — «да»",
-	"Вероятнее всего",
-	"Хорошие перспективы",
-	"Знаки говорят — «да»",
-	"Да",
+		# Mid - positive
+		"I think  — «yes»",
+		"Probaly",
+		"Good perspectives",
+		"Signs say — «yes»",
+		"Yes",
 
-	# Нейтральные
-	"Пока не ясно, попробуй снова",
-	"Спроси позже",
-	"Лучше не рассказывать",
-	"Сейчас нельзя предсказать",
-	"Сконцентрируйся и спроси опять",
+		# Neutral
+		"I'm not sure, try again next time",
+		"Ask me later",
+		"I am silent now",
+		"It is not good time to predict",
+		"Focus and ask again",
 
-	# Отрицательные
-	"Даже не думай",
-	"Мой ответ — «нет»",
-	"По моим данным — «нет»",
-	"Перспективы не очень хорошие",
-	"Весьма сомнительно"
+		# Negative
+		"Don't think about it even",
+		"My answer — «no»",
+		"Based on my info — «no»",
+		"Not good perpectives",
+		"Highly doubtful"
 ]
 
 puts greetings.sample
-sleep 2	
-puts 
+sleep 2
+puts
 puts answers.sample
 
