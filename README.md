@@ -7,3 +7,5 @@ How to use:
 1. Think about the question you need to solve
 2. Open magic_8_ball.rb in command prompt
 3. Enjoy the decision!
+
+```ruby magic_8_ball.rb```
